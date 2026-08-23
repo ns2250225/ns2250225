@@ -13,7 +13,7 @@
 ## 👨‍💻 关于我
 
 - 🌏 **所在地**：广州
-- 🔗 **个人作品集网站**：[https://44c7d48d.pinme.dev](https://45632315.pinme.dev)
+- 🔗 **个人作品集网站**：https://ns2250225.github.io/
 - 📅 **GitHub 成员**：2014 年至今
 - 🛠️ **技术方向**：Python、JavaScript、Vue、TypeScript、HTML、Kotlin
 - 🔥 **近期活跃**：过去 90 天内活跃于 34 个公开仓库，主要使用 Vue、Python、JavaScript、TypeScript、HTML
